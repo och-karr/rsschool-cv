@@ -39,6 +39,18 @@ I started my adventure with Front-End at the end of 2017 and since then I have b
 
 ### Education
 
+###### UNIVERSITY
+**University of Science and Technology (AGH), Cracow (Master’s degree 02/2016 – 10/2018, degree 10/2012 – 01/2016)**
+Faculty of Mining and Geoengineering, Civil Engineering
+
+###### COURSES
+**Angular workshop - ngGirls x Pragmatic Coders (09/2019 - 11/2019)**
+Workshop of Angular basics (version 6)
+
 ### Languages
 
+English - B2
+
 ### Interests
+
+Board games, books, painting, mountain hiking, snowboard
