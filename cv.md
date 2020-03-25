@@ -3,9 +3,13 @@
 ### Contact Info
 
 **Phone:** 508-893-332
+
 **E-mail:** och.pudlo@gmail.com
+
 **Linkedin:** [https://www.linkedin.com/in/karolina-och-pud%C5%82o-8b64a1151/](https://www.linkedin.com/in/karolina-och-pud%C5%82o-8b64a1151/)
+
 **Github:** [https://github.com/och-karr](https://github.com/och-karr)
+
 **Portfolio:** [https://och-karr.github.io/portfolio/dist/](https://och-karr.github.io/portfolio/dist/)
 
 ### Summary
@@ -40,11 +44,14 @@ I started my adventure with Front-End at the end of 2017 and since then I have b
 ### Education
 
 ###### UNIVERSITY
+
 **University of Science and Technology (AGH), Cracow (Master’s degree 02/2016 – 10/2018, degree 10/2012 – 01/2016)**
+
 Faculty of Mining and Geoengineering, Civil Engineering
 
 ###### COURSES
 **Angular workshop - ngGirls x Pragmatic Coders (09/2019 - 11/2019)**
+
 Workshop of Angular basics (version 6)
 
 ### Languages
